@@ -1,0 +1,27 @@
+img
+{
+    height: 200px;
+    border: 9px groove grey;
+}
+#p1
+{  
+    border: 2px solid grey;
+    padding: 10px;
+    margin: 20px;
+    text-align: justify;
+    max-width: 350px;
+
+}
+#p2{
+    float: right;
+    border:2px solid grey ;
+    padding: 10px;
+    margin-left:250px;
+    
+}
+hr
+{
+    height: 10px;
+    width: 250px;
+    background-color: lightblue;
+}
